@@ -2,6 +2,8 @@
 Let you observe your current screen size dynamicaly as observable in any of the components using the service
 * Can be used instead of media query in angular 
 
+* Open in [Stack Blitz](https://owaingnqw.github.stackblitz.io)
+
 ## Installing process for Local eniviroment
 
 * Download node [Node Latest](https://nodejs.org/en/)
