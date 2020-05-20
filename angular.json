@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "breakpointObserver"
+    }
+  },
+  "defaultProject": "breakpointObserver",
+  "cli": {
+    "analytics": "0f5665b4-0b24-47db-80be-5c42bf5b84d4"
+  }
 }
