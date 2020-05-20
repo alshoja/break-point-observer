@@ -1,6 +1,7 @@
 import { BreakpointObserverService } from './../breakpoint-observer.service';
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -10,15 +11,21 @@ export class AppComponent implements OnInit {
   title = 'Break-Point-Observer';
   public screenSize: any;
 
+  // constructor(private ObserverService: BreakpointObserverService) { }
   constructor(private ObserverService: BreakpointObserverService) { }
 
   ngOnInit() {
-    this.detectScreenChange();
+    // this.detectScreenChange();
+    this.x();
   }
 
-  detectScreenChange() {
-    this.ObserverService.size$.subscribe(breakPoint => {
-      this.screenSize = breakPoint;
-    });
+  // detectScreenChange() {
+  //   this.ObserverService.size$.subscribe(breakPoint => {
+  //     this.screenSize = breakPoint;
+  //   });
+  // }
+
+  x() {
+
   }
 }
