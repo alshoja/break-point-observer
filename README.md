@@ -1,4 +1,5 @@
-# Break-Point-Observer
+#consider the library i converted this into library
+# Break-Point-Observer(consider the library )
 Let you observe your current screen size dynamicaly as observable in any of the components using the service
 * Can be used instead of media query in angular 
 
