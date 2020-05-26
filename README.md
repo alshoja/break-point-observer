@@ -1,6 +1,6 @@
-# consider the library i converted this into library
 
-# Library [On Npm](https://www.npmjs.com/package/@alshoja/break-point-observer)
+
+# Available as Library [On Npm](https://www.npmjs.com/package/@alshoja/break-point-observer)
 
 #Break-Point-Observer(consider the library )
 Let you observe your current screen size dynamicaly as observable in any of the components using the service
