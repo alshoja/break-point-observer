@@ -1,6 +1,12 @@
-# Break-point-observer
+
+
+# Available as Library [On Npm](https://www.npmjs.com/package/@alshoja/break-point-observer)
+
+#Break-Point-Observer(consider the library )
 Let you observe your current screen size dynamicaly as observable in any of the components using the service
 * Can be used instead of media query in angular 
+
+* Open in [Stack Blitz](https://owaingnqw.github.stackblitz.io)
 
 ## Installing process for Local eniviroment
 
